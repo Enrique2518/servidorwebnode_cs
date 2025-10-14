@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Enrique2518/servidorwebnode_cs/issues"
   },
-  "homepage": "https://github.com/Enrique2518/servidorwebnode_cs#readme"
+  "homepage": "https://github.com/Enrique2518/servidorwebnode_cs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
